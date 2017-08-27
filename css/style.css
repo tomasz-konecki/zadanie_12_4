@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Mukta Mahee', sans-serif;
+}
+body {
+    background-color: #deeaf2;
+}
+.container {
+    width: 440px;
+    height: 220px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 30px;
+    background-color: #c6c6c6;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px #888;
+}
+p {
+    .padding-top: 5px;
+}
+button {
+    background-color: #046380;
+    color: #fff;
+    outline: none;
+    box-shadow: 2px 2px 0 #aaa;
+    border-radius: 4px;
+    cursor: pointer;
+}
